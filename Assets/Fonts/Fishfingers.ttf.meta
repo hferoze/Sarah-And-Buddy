@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ad0edf1acc8991d4b80f4629c45a2090
+timeCreated: 1523257882
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FISHfingers
+  fontNames:
+  - FISHfingers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cb926e0e68bdb8241be14f607d30a75e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

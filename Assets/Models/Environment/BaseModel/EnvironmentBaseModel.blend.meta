@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: d9a8adf5daeb74c488e7ff0b3193df72
+timeCreated: 1521879384
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: door_lamp
+    100002: fence
+    100004: house
+    100006: //RootNode
+    100008: ice_cream_truck
+    100010: path
+    100012: street_lamp
+    100014: trashcan
+    100016: window_00
+    100018: window_001
+    100020: bench
+    100022: town_fence
+    100024: Plane
+    100026: mountains
+    100028: ditch_
+    100030: ditch
+    100032: bridge_00
+    100034: bridge_01
+    100036: bridge_mesh
+    100038: Cube
+    100040: speech_balloon
+    100042: balloon_00
+    100044: balloon_01
+    100046: balloon_holder
+    100048: RewardCoin
+    100050: ice_cream_scoop_00
+    100052: ice_cream_scoop_01
+    100054: ice_cream_scoop_02
+    100056: ice_cream_scoop_02_001
+    100058: ice_cream_waffle
+    100060: ice_cream_scoop_03
+    100062: ice_cream_man_hand
+    400000: door_lamp
+    400002: fence
+    400004: house
+    400006: //RootNode
+    400008: ice_cream_truck
+    400010: path
+    400012: street_lamp
+    400014: trashcan
+    400016: window_00
+    400018: window_001
+    400020: bench
+    400022: town_fence
+    400024: Plane
+    400026: mountains
+    400028: ditch_
+    400030: ditch
+    400032: bridge_00
+    400034: bridge_01
+    400036: bridge_mesh
+    400038: Cube
+    400040: speech_balloon
+    400042: balloon_00
+    400044: balloon_01
+    400046: balloon_holder
+    400048: RewardCoin
+    400050: ice_cream_scoop_00
+    400052: ice_cream_scoop_01
+    400054: ice_cream_scoop_02
+    400056: ice_cream_scoop_02_001
+    400058: ice_cream_waffle
+    400060: ice_cream_scoop_03
+    400062: ice_cream_man_hand
+    2100000: house__house_uv_colored_png
+    2100002: house
+    2100004: house__house_uv_colored_png_001
+    2100006: None__house_uv_colored_png_001
+    2100008: unnamed
+    2100010: Material
+    2100012: Material__rewards_icons_png
+    2300000: door_lamp
+    2300002: fence
+    2300004: house
+    2300006: ice_cream_truck
+    2300008: path
+    2300010: street_lamp
+    2300012: trashcan
+    2300014: window_00
+    2300016: window_001
+    2300018: bench
+    2300020: town_fence
+    2300022: Plane
+    2300024: mountains
+    2300026: ditch_
+    2300028: ditch
+    2300030: bridge_00
+    2300032: bridge_01
+    2300034: bridge_mesh
+    2300036: Cube
+    2300038: speech_balloon
+    2300040: balloon_00
+    2300042: balloon_01
+    2300044: balloon_holder
+    2300046: RewardCoin
+    2300048: ice_cream_scoop_00
+    2300050: ice_cream_scoop_01
+    2300052: ice_cream_scoop_02
+    2300054: ice_cream_scoop_02_001
+    2300056: ice_cream_waffle
+    2300058: ice_cream_scoop_03
+    2300060: ice_cream_man_hand
+    3300000: door_lamp
+    3300002: fence
+    3300004: house
+    3300006: ice_cream_truck
+    3300008: path
+    3300010: street_lamp
+    3300012: trashcan
+    3300014: window_00
+    3300016: window_001
+    3300018: bench
+    3300020: town_fence
+    3300022: Plane
+    3300024: mountains
+    3300026: ditch_
+    3300028: ditch
+    3300030: bridge_00
+    3300032: bridge_01
+    3300034: bridge_mesh
+    3300036: Cube
+    3300038: speech_balloon
+    3300040: balloon_00
+    3300042: balloon_01
+    3300044: balloon_holder
+    3300046: RewardCoin
+    3300048: ice_cream_scoop_00
+    3300050: ice_cream_scoop_01
+    3300052: ice_cream_scoop_02
+    3300054: ice_cream_scoop_02_001
+    3300056: ice_cream_waffle
+    3300058: ice_cream_scoop_03
+    3300060: ice_cream_man_hand
+    4300000: trashcan
+    4300002: ice_cream_truck
+    4300004: street_lamp
+    4300006: path
+    4300008: window_001
+    4300010: fence
+    4300012: door_lamp
+    4300014: window_00
+    4300016: house
+    4300018: bench
+    4300020: town_fence
+    4300022: Plane
+    4300024: mountains
+    4300026: ditch_
+    4300028: ditch
+    4300030: bridge_01
+    4300032: bridge_00
+    4300034: bridge_mesh
+    4300036: Cube
+    4300038: speech_balloon
+    4300040: balloon_01
+    4300042: balloon_00
+    4300044: balloon_holder
+    4300046: RewardCoin
+    4300048: ice_cream_scoop_02_001
+    4300050: ice_cream_scoop_02
+    4300052: ice_cream_scoop_01
+    4300054: ice_cream_scoop_00
+    4300056: ice_cream_waffle
+    4300058: ice_cream_scoop_03
+    4300060: ice_cream_man_hand
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
